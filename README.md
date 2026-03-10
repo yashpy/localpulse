@@ -133,7 +133,7 @@ Open `frontend/index.html` in your browser — or deploy to Netlify (free).
 
 Built by **LocalPulse Founder**, MS CS student at **Arizona State University**.
 
-Reach out: [[LinkedIn](https://www.linkedin.com/company/localpulse-ai-tempe)]
+Reach out: [[LinkedIn]([https://www.linkedin.com/company/localpulse-ai-tempe](https://www.linkedin.com/company/localpulse-ai-tempe/about/))]
 
 ---
 
