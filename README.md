@@ -131,9 +131,9 @@ Open `frontend/index.html` in your browser — or deploy to Netlify (free).
 
 ## 👨‍💻 About
 
-Built by **[Your Name]**, MS CS student at **Arizona State University**.
+Built by **LocalPulse Founder**, MS CS student at **Arizona State University**.
 
-Reach out: [your@email.com] | [LinkedIn] | [Twitter]
+Reach out: [[LinkedIn](https://www.linkedin.com/company/localpulse-ai-tempe)]
 
 ---
 
